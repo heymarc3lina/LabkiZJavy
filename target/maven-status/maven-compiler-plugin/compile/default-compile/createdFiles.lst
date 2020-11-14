@@ -1,0 +1,7 @@
+com\mycompany\lab1\Main.class
+com\mycompany\model\StationDataBases.class
+com\mycompany\model\WheatherStation.class
+com\mycompany\controller\TakeDataFromUser.class
+com\mycompany\view\DataToUser.class
+com\mycompany\model\MainProgramLoop.class
+com\mycompany\model\Measurement.class
