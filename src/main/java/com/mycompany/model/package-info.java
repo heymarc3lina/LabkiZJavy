@@ -3,9 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
-* This package is a model and comunicate with view and controller and additionaly it processes the data from controller so it has class
-* like MainProgramLoop, Measurement, StationDataBases and WheatherStation
-**/
+ * This package is a model and it has class
+ * like Measurement, StationDataBase and WheatherStation
+ * */
 package com.mycompany.model;

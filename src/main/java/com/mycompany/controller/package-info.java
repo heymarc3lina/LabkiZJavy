@@ -5,7 +5,7 @@
  */
 
 /**
-* This package comunicate with user so it has a controller role. It has only one class
+* This package comunicate with user so it has a controller role.
 **/
 package com.mycompany.controller;
 

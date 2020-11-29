@@ -3,8 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 /**
-* This package is a view so only displying the text with information to user and here is only one class DataToUser
-**/
+ * This package is a view so only displying the text with information to user and here is only one class View
+ * */
 package com.mycompany.view;
